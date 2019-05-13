@@ -1,0 +1,1 @@
+./mutua cifradoVigenere.txt 7 > salida.txt

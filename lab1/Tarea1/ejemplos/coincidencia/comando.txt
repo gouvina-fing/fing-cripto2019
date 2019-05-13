@@ -1,0 +1,1 @@
+./coincidencia entrada.txt > salida.txt 

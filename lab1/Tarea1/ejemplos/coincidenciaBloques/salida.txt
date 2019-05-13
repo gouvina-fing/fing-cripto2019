@@ -1,0 +1,7 @@
+El indice de coincidencia del bloque 1 es: 0.091248
+El indice de coincidencia del bloque 2 es: 0.070205
+El indice de coincidencia del bloque 3 es: 0.071322
+El indice de coincidencia del bloque 4 es: 0.070019
+El indice de coincidencia del bloque 5 es: 0.078585
+El indice de coincidencia del bloque 6 es: 0.065922
+El indice de coincidencia del bloque 7 es: 0.065425

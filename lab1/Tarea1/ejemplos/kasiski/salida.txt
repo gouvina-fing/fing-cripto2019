@@ -1,0 +1,5 @@
+El trigrama mas repetido es: mbi y ocurre 4 veces
+Distancia de la nro ocurr 0 es 174
+Distancia de la nro ocurr 1 es 223
+Distancia de la nro ocurr 2 es 258
+El largo de la clave es: 1
