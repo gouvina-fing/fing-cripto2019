@@ -1,1 +1,0 @@
-./sustitucion_clave_parcial cifradoSustitucion.txt clave.txt > salida.txt
