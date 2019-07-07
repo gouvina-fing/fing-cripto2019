@@ -11,7 +11,6 @@ if __name__== "__main__":
     maps = read_maps(sys.argv[2])
 
     counter_trigrams = count_trigrams(text, maps)
-    #sorted_trigrams_keys = sorted(counter_trigrams.items(), key=operator.itemgetter(0))
     sorted_trigrams_values = sorted(counter_trigrams.items(), key=operator.itemgetter(1), reverse=True)
 
     trigram_key, trigram_value = sorted_trigrams_values[0]

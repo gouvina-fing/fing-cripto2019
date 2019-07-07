@@ -5,13 +5,10 @@
 import math
 import numpy as np
 
-# 
-def arrangement(n, m):
-	return math.factorial(n) / math.factorial(n-m)
+# Devuelve un arreglo de m combinaciones tomadas de n
+def arrangement(m, n):
+	return math.factorial(m) / math.factorial(m-n)
 
-# 
-def combination(n, r):
-	return math.factorial(n - r) * math.factorial(r)
-
+# Devuelve el máximo común divisor para una lista de valores
 def gcd(values):
 	return np.gcd.reduce(values)
